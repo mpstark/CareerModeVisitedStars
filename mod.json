@@ -1,0 +1,13 @@
+{
+    "Name": "CareerModeVisitedStars",
+    "DLL": "CareerModeVisitedStars.dll",
+
+    "Version": "1.0.0",
+    "Description": "Darkens the outer color of visited star systems",
+    "Author": "mpstark",
+    "Website": "www.github.com/mpstark/CareerModeVisitedStars",
+
+    "Settings": {
+        "CareerOnly": true
+    }
+}
